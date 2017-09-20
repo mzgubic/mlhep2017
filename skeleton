@@ -1,0 +1,6 @@
+cd /home/zgubic/muon_isolation/post_processing/
+source $ATLAS_LOCAL_ROOT_BASE/user/atlasLocalSetup.sh
+rcSetup
+cd /home/zgubic/MLHEP17/
+
+export PATH=/home/zgubic/anaconda2/bin:$PATH
